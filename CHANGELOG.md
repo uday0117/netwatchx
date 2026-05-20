@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.1
+
+- Added comprehensive documentation comments to all public API elements
+- Improved pub.dev documentation score
+
 ## 1.0.0
 
 - Initial release
